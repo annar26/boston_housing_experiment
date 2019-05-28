@@ -1,0 +1,6 @@
+
+\.vscode/
+
+boston_housing_experiment/__pycache__/
+
+tests/__pycache__/
